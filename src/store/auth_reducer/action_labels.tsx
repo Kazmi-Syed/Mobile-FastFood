@@ -1,0 +1,10 @@
+const LOGIN_LABEL = "LOGIN";
+const LOGOUT_LABEL = "LOGOUT";
+const BOARDED = "BOARDED";
+
+
+export {
+    LOGIN_LABEL,
+    LOGOUT_LABEL,
+    BOARDED
+}
